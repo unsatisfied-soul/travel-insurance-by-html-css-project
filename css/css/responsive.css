@@ -1,0 +1,171 @@
+@media(max-width: 1130px){
+    .logo-left p{
+        margin: 10px 20px
+    }
+}
+@media(max-width: 992px){
+    .logo-left p{
+        display: none;
+    }
+    .logo-right ul .a{
+        right: 0px;
+    }
+    .menu .b{
+        left: 0px;
+    }
+    .menu .c{
+        right: 10px;
+    }
+    .menu .b li a{
+        font-size: 12px;
+    }
+    .menu .c li a i{
+        font-size: 12px;
+    }
+    .box-content h3{
+        font-size: 15px;
+        left: 10px;
+    }
+    .box-content a{
+        left: 10px;
+    }
+}
+@media(max-width: 864px){
+
+    .travel-info{
+        margin-left: 65px
+    }
+    .travel-info-text h3{
+        font-size: 25px;
+    }
+    .travel-info-text h3:before{
+        margin: 40px 0px;
+    }
+    .travel-info-text p{
+        font-size: 14px;
+    }
+}
+@media(max-width: 838px){
+    .box{
+        width: 35%;
+        margin-left: 50px;
+    }
+    .box-content{
+        width: 100%;
+    }
+    .box-content h3{
+        font-size: 20px;
+    }
+    .box-content a{
+        font-size: 20px;
+    }
+    .box-content p{
+        top: 40px;
+        padding: 25px 15px;
+    }
+}
+@media(max-width: 820px){
+    .banner-title-one h1{
+        font-size: 30px
+    }
+    .banner-title-one h3{
+        font-size: 30px
+    }
+    .banner-title-one h4{
+        font-size: 15px
+    }
+    .banner-title-one p{
+        font-size: 14px
+    }
+}
+@media(max-width: 686px){
+    .logo-left{
+        left: 15px;
+        top: 10px
+    }
+    .logo-left h2{
+        font-size: 18px;
+    }
+    .logo-right ul li i{
+        font-size: 10px;
+    }
+    .logo-right ul li p{
+        font-size: 10px;
+    }
+    .logo-right ul{
+        margin: 14px 1px;
+    }
+}
+@media(max-width: 650px){
+    .menu .b{
+        margin: 5px 0px;
+    }
+    .menu .b li{
+        padding: 5px 10px;
+    }
+}
+@media(max-width: 578px){
+    .banner-title-one{
+        left: 10%;
+        width: 80%;
+    }
+}
+@media(max-width: 564px){
+    .menu .b li{
+        padding: 5px 5px;
+    }
+    .menu .b li a{
+        font-size: 10px;
+    }
+    .menu .c li a i{
+        font-size: 10px;
+    }
+}
+@media(max-width: 548px){
+    .travel-info{
+        margin-left: 30px
+    }
+    .travel-info-text h3{
+        font-size: 19px;
+    }
+    .box{
+        margin-left: 10px;
+        width: 45%;
+    }
+}
+@media(max-width: 510px){
+    .menu .b li{
+        padding: 0px 0px;
+    }
+    .menu .c li{
+        padding: 1px 5px;
+        position: relative;
+        top: -10px
+    }
+}
+@media(max-width:500px){
+    .box{
+        width: 42%;
+        height: 200px;
+    }
+    .box-content h3{
+         font-size: 15px;  
+    }
+    .box-content a{
+        font-size: 15px;
+    }
+    .box-content p{
+        top: 25px;
+        padding: 15px 5px;
+        font-size: 10px;
+    }
+}
+@media(max-width: 456px){
+    .menu .b li{
+        padding: 5px 0px;
+    }
+    .banner-title-one .d{
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+}
